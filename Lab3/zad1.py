@@ -4,5 +4,5 @@ def silnia(n):
     else:
         wynik = n * silnia(n-1)
         return wynik
-a = int(input("Podaj n: "))
-print(silnia(a))
+n = int(input("Podaj n: "))
+print(silnia(n))
