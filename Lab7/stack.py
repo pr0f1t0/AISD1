@@ -24,6 +24,8 @@ class Stack:
 #s.push('34')
 #print(s.isEmpty())
 #print(s.size())
-#s.pop()
+#print(s.pop())
 #print(s.size())
 #print(s.peek())
+
+
